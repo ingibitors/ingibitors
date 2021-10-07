@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on projects with React
-- 📫 How to reach me ingibitors@пьфшдюсщь
+- 📫 How to reach me ingibitors@gmail.com
 
 <!---
 ingibitors/ingibitors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
